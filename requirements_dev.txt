@@ -5,6 +5,7 @@ notebook
 numpy
 matplotlib
 seaborn
+
 -e .
 
 ## Dev requirements
